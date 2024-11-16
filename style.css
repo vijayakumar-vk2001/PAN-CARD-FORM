@@ -1,0 +1,28 @@
+body{
+  display: flex;
+  justify-content: center;
+}
+table,td,tr{
+   border: 2px solid black;
+   border-collapse: collapse;
+}
+#heading{
+    background-color: brown;
+    text-align: center;
+    color: white;
+}
+tbody{
+    background-color: antiquewhite;
+}
+.span0,.span1{
+    color: blue;
+ }
+  .span6,.span8,.span10,.span12,.span14{
+    color: green;
+  }
+  .row20{
+    color: gray;
+  }
+  .checkbox7{
+    padding-right: 300px;
+  }
